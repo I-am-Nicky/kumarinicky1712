@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kumari Nicky</h1>
 <h3 align="center">I’m interested in Java and web development.</h3>
-<img align="right" alt="coding" width="400" src="https:https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"/>
+<img align="right" alt="coding" width="400" src="https:https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-nicky&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-nicky" /> </p>
 
